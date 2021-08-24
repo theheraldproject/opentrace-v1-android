@@ -2,7 +2,11 @@
 
 *This is the OpenTrace v1 Android repository, first published in April 2020 and re-published here in August 2021.*
 
-![alt text](./OpenTrace.png "OpenTrace Logo")
+Please note that this repository is not being actively maintained and should not be used as the basis of any new applications. OpenTrace v2 is under development and its repositories will be published soon. To follow our progress please visit our website: https://heraldprox.io/opentrace .
+
+![OpenTrace Logo](OpenTrace.png)
+
+----
 
 OpenTrace is the open source reference implementation of BlueTrace.
 BlueTrace is a privacy-preserving protocol for community-driven contact tracing across borders. It allows participating devices to log Bluetooth encounters with each other, in order to facilitate epidemiological contact tracing while protecting users’ personal data and privacy. Visit https://bluetrace.io to learn more.
